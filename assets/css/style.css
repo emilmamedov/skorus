@@ -971,6 +971,7 @@ h2 {
     justify-content: center;
     align-items: center;
     margin: 16px auto 8px;
+    white-space: nowrap;
 }
 
 .section_title,
@@ -996,6 +997,7 @@ h2 {
     color: #E20613;
     padding: 3px 7px;
     margin: 10px 0 0;
+    white-space: nowrap;
 }
 
 
